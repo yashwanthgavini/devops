@@ -1,1 +1,12 @@
-hi yashwanth how are you
+yum install git
+mkdir projects
+cd projects
+git clone https://github.com/yashwanthgavini/devops.git
+ls
+cd devops
+ls
+vi yashwanth
+git add yashwanth
+git commit -m "my first command"
+git push
+
