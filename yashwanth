@@ -6,7 +6,7 @@ ls
 cd devops
 ls
 vi yashwanth
-git add yashwanth
-git commit -m "my first command"
-git push
+git add yashwanth      ---it sends file to stag
+git commit -m "my first command"       ---it commits changes -m is used to message text
+git push     ---push to github server
 
